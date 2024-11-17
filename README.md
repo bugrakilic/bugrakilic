@@ -4,4 +4,4 @@ I am an engineer working on product management and solutions architecture of net
 
 I build network and cloud-centric solutions with Python to improve network operations and management. 
 
-For more, please look at [my website](https://bugrakilic.net) and follow me on [X](https://x.com/bugrakilicnet) and [LinkedIn](https://linkedin.com/in/bugrakilic). 
+For more, please visit [my website](https://bugrakilic.net) and follow me on [X](https://x.com/bugrakilicnet), [Bluesky](https://bsky.app/profile/bugrakilic.net) and [LinkedIn](https://linkedin.com/in/bugrakilic). 
